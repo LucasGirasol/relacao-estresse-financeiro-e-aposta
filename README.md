@@ -1,1 +1,1 @@
-# relacao-estresse-financeiro-e-aposta
+Trabalho da disciplina de metodologia científica.
